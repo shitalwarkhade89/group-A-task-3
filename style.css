@@ -67,7 +67,7 @@ h1{
 margin-bottom: 30px;
 }
 .container-2{
-    height: 690px;
+    height: 700px;
     width: 400px;
     background-color: white;
     border:1px white;
@@ -75,4 +75,21 @@ margin-bottom: 30px;
     margin-top:15px;
     padding: 10px;
     
+}
+.img{
+    height: 40px;
+    width: 40px;
+    border-radius: 90%;
+    margin-top: 10px;
+
+}
+b{
+    font-size: 17px;
+    margin-left: 20px;
+
+}
+p{
+    font-size: 15px;
+    margin-left: 75px;
+ 
 }
